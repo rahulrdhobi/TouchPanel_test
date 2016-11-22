@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5316
+END
+tpd_custom_ft5316.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5316/tpd_custom_ft5316.h
+END
+ft5316_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5316/ft5316_driver.c
+END

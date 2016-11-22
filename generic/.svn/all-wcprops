@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/generic
+END
+generic_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/generic/generic_driver.c
+END
+tpd_custom_generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/generic/tpd_custom_generic.h
+END

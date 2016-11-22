@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5406
+END
+focaltech_ctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5406/focaltech_ctl.c
+END
+tpd_custom_ft5406.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5406/tpd_custom_ft5406.h
+END
+focaltech_ctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5406/focaltech_ctl.h
+END
+ft5406_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5406/ft5406_driver.c
+END
+ft5406_isp.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5406/ft5406_isp.c
+END
+ft5406_iic_wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5406/ft5406_iic_wrap.c
+END

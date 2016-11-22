@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT818B
+END
+gt818b_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT818B/gt818b_driver.c
+END
+gt818_downloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT818B/gt818_downloader.c
+END
+gt818_fw.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT818B/gt818_fw.h
+END
+tpd_custom_GT818B.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT818B/tpd_custom_GT818B.h
+END
+goodix_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT818B/goodix_tool.c
+END

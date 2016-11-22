@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT813TB
+END
+goodix_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT813TB/goodix_tool.c
+END
+guitar_update.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT813TB/guitar_update.c
+END
+gt813_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT813TB/gt813_driver.c
+END

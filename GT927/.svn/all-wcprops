@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT927
+END
+gt927_update.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT927/gt927_update.c
+END
+goodix_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT927/goodix_tool.c
+END
+gt927_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT927/gt927_driver.c
+END

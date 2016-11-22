@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/tangleM32_16
+END
+tpd_custom_tangleM32_16.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/tangleM32_16/tpd_custom_tangleM32_16.h
+END
+tangleM32_16_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/tangleM32_16/tangleM32_16_driver.c
+END

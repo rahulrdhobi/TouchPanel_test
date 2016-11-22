@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/src
+END
+tpd_default.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/src/tpd_default.h
+END
+mtk_tpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/src/mtk_tpd.c
+END
+tpd_button.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/src/tpd_button.c
+END
+tpd_calibrate.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/src/tpd_calibrate.h
+END
+tpd_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/src/tpd_debug.h
+END
+tpd_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/src/tpd_misc.c
+END
+tpd_setting.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/src/tpd_setting.c
+END
+tpd_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/src/tpd_init.c
+END
+tpd_default.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/src/tpd_default.c
+END
+tpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/src/tpd.h
+END
+tpd_calibrate.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/src/tpd_calibrate.c
+END
+tpd_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/src/tpd_debug.c
+END

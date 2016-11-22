@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT9110
+END
+gt9110_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT9110/gt9110_driver.c
+END
+goodix_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT9110/goodix_tool.c
+END
+gt9110_update.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/GT9110/gt9110_update.c
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5x16
+END
+focaltech_ctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5x16/focaltech_ctl.h
+END
+tpd_custom_ft5x06.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5x16/tpd_custom_ft5x06.h
+END
+ft5x06_button.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5x16/ft5x06_button.c
+END
+ft5x06_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5x16/ft5x06_driver.c
+END
+ft5x06_isp.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5x16/ft5x06_isp.c
+END
+S9201_Jtouch_Ver0x19_20130328_all.i
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5x16/S9201_Jtouch_Ver0x19_20130328_all.i
+END
+ft5x06_iic_wrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5x16/ft5x06_iic_wrap.c
+END
+focaltech_ctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kashifmin/KashKernel_4.2.git/!svn/ver/1/trunk/mediatek/custom/wiko/kernel/touchpanel/ft5x16/focaltech_ctl.c
+END
